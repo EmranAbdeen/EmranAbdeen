@@ -2,7 +2,7 @@
 
 **Full Stack .NET Developer**
 
-Full Stack .NET Developer focused on building maintainable, and scalable web applications. Experienced in backend development using C# and ASP.NET Core, including building REST APIs, implementing authentication and authorization, and integrating relational databases. Experienced in working with ASP.NET Core (MVC & Web API), Entity Framework Core, Angular, Bootstrap, SQL Server, and PostgreSQL. Familiar with Onion Architecture, dependency injection, SOLID Principles, and role-based access control. 
+Full Stack .NET Developer focused on building maintainable, and scalable web applications. Experienced in backend development using C# and ASP.NET Core, including building REST APIs, implementing JWT-based authentication and authorization, and integrating relational databases. Experienced in working with ASP.NET Core (MVC & Web API), Entity Framework Core, Angular, Bootstrap, SQL Server, and PostgreSQL. Familiar with Onion Architecture, dependency injection, SOLID Principles, and role-based access control. 
 
 ## Technical Skills 🛠️
 
